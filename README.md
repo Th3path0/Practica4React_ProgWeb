@@ -1,2 +1,3 @@
-# Practica4React_ProgWeb
-<img width="945" alt="image" src="https://user-images.githubusercontent.com/63733274/159689614-b0a18822-fd80-436b-8f9e-7ba9a9df162d.png">
+# Practica4React_ProgWeb- Yaher E. Hichez 2020-10339
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/63733274/159690168-6f944367-8f3c-49d6-a36a-4d025149d2d0.png">
+
